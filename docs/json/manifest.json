@@ -91,6 +91,8 @@
                     "description": ""
                 },
                 "pt-br": {
+                    "name": "Exemplo de aplicativo de pesquisa",
+                    "description": "Este aplicativo apresenta o recurso Application Search, introduzido com o APEX 22.2. As configurações de pesquisa e as regiões de pesquisa permitem que os desenvolvedores adicionem funcionalidades robustas de mecanismo de pesquisa aos seus aplicativos APEX."
                     "name": "",
                     "description": ""
                 },
